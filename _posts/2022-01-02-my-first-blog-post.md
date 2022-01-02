@@ -1,3 +1,8 @@
+---
+title: "DAVID ODOLOFIN. FRONTEND ENGINEER"
+date: 2022-01-02
+---
+
 Hi. 👋
 
 Ever had a billion-dollar idea for an bespoke new web product?
